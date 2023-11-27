@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Fri Jul 14 22:48:19 2023
-
-@author: ankit
-"""
 
 import numpy as np
 import pickle
@@ -98,12 +93,6 @@ def main():
     st.text("\n\n")
 #    st.markdown("<h3 style='text-align: center; color: red;'> Model accuracy is   </h3>", unsafe_allow_html=True)    
     
-    st.write(" \n\n\n\n")
-    st.markdown("******")
-    
-    st.write("Contributor : [Ankit Nainwal](https://github.com/nano-bot01) \n [LinkedIn](https://www.linkedin.com/in/ankit-nainwal1/)")
-    
-    st.write("\n© 2023 Heart Disease Prediction System. All rights reserved.")
 if __name__ == '__main__':
     main()
     
